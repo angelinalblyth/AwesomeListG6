@@ -58,3 +58,6 @@ Curation of cool stuff, do your own research when installing and using programs.
 1. [Haskell: an academic language](http://learnyouahaskell.com/introduction)
 2. [Matlab and R](https://software-carpentry.org/lessons/)
 3. A good resource for mathematics and science. Left as a link as upkeep of the site is a hit or a miss.  https://sites.google.com/site/scienceandmathguide/
+
+### Javascript
+1. [You Dont Know JS](git@github.com:JackRMurning/AwesomeListG6.git), free book series on JS.
